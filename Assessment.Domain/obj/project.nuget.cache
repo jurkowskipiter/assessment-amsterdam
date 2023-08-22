@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SgMh3zWKJ1HOyTABakKthT2UtxeSyb1lJIJN/2JMrkA28Ki6BQ2T9ccGKmV1jkA25AbuYmNiiFNvzQ8KgkrTDg==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\AssessmentAmsterdam\\Assessment.Domain\\Assessment.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PJ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

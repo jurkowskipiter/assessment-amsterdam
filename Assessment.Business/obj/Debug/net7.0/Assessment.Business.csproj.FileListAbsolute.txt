@@ -1,0 +1,15 @@
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.csproj.AssemblyReference.cache
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.AssemblyInfoInputs.cache
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.AssemblyInfo.cs
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.csproj.CoreCompileInputs.cache
+C:\Repository\AssessmentAmsterdam\Assessment.Business\bin\Debug\net7.0\Assessment.Business.deps.json
+C:\Repository\AssessmentAmsterdam\Assessment.Business\bin\Debug\net7.0\Assessment.Business.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Business\bin\Debug\net7.0\Assessment.Business.pdb
+C:\Repository\AssessmentAmsterdam\Assessment.Business\bin\Debug\net7.0\Assessment.Domain.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Business\bin\Debug\net7.0\Assessment.Domain.pdb
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.csproj.CopyComplete
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\refint\Assessment.Business.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\Assessment.Business.pdb
+C:\Repository\AssessmentAmsterdam\Assessment.Business\obj\Debug\net7.0\ref\Assessment.Business.dll

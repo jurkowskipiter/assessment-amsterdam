@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4+bVlhyWf6eGLIm0PbytrnMpjJ5LbduQ/xYF5KA33PJmwUHKzM0vaNaJEH1u5g5IMdnGHPO4HsYG3104/L41w==",
+  "success": true,
+  "projectFilePath": "C:\\Repository\\AssessmentAmsterdam\\Assessment.Business\\Assessment.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PJ\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\PJ\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

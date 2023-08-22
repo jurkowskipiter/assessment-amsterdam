@@ -1,0 +1,12 @@
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\bin\Debug\net7.0\Assessment.Domain.deps.json
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\bin\Debug\net7.0\Assessment.Domain.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\bin\Debug\net7.0\Assessment.Domain.pdb
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.AssemblyInfoInputs.cache
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.AssemblyInfo.cs
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\refint\Assessment.Domain.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.pdb
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\ref\Assessment.Domain.dll
+C:\Repository\AssessmentAmsterdam\Assessment.Domain\obj\Debug\net7.0\Assessment.Domain.csproj.AssemblyReference.cache

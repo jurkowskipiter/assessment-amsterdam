@@ -1,0 +1,24 @@
+﻿@using Assessment.Domain.Models;
+@model List<Product>
+
+<link rel="stylesheet" href="~/css/topFiveProducts.css" asp-append-version="true" />
+
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>EAN</th>
+            <th>Quantity</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@(string.IsNullOrEmpty(product.Ean) ? "N/A" : product.Ean)</td>
+                <td>@product.TotalQuantity</td>
+            </tr>
+        }
+    </tbody>
+</table>
